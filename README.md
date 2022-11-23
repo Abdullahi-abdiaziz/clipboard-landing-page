@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View here](https://github.com/Abdullahi-abdiaziz/clipboard-landing-page)
+- Live Site URL: [View here](https://clipboard-landing-page-c7.netlify.app/)
 
 ## My process
 
