@@ -220,9 +220,6 @@ footer .footer-logo {
         gap: 1rem;
     }
     
-    nav {
-        border: 1px solid;
-    }
     .flex {
         display: flex;
         justify-content: space-between;
