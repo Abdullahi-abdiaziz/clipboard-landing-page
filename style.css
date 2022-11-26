@@ -178,7 +178,7 @@ section .container-x .center {
     display: grid;
     place-items: center;
 }
-.grid.companies > img {
+.grid.companies > div {
     padding: var(--heading-spacing);
 }
 /* footer */
@@ -195,7 +195,9 @@ footer  .social-media  {
     gap: 1rem;
 }
 footer .footer-logo {
-    width: 50px;
+    width: 70px;
+    margin: 0 auto;
+    padding: var(--paragraph-spacing);
 }
 @media (min-width: 600px) {
     .container-xx {
